@@ -2,7 +2,7 @@
 It is covid app which helps us to show the data of active cases, deaths of all the country of the world which are affrected by covid19App
 
 help
-<img src="https://user-images.githubusercontent.com/49392229/99767665-86cb7180-2b2b-11eb-9e5b-7294764f807b.png" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/49392229/99767665-86cb7180-2b2b-11eb-9e5b-7294764f807b.png" width="200" height="300" text="help">
 
 
 sibi
