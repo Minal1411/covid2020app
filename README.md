@@ -9,7 +9,7 @@ help
 <img src="https://user-images.githubusercontent.com/49392229/99768182-7cf63e00-2b2c-11eb-8800-df1f27229228.png" width="200" height="300">
 sibi
 
-khan
+
 <img src="https://user-images.githubusercontent.com/49392229/99768187-7ec00180-2b2c-11eb-913c-6e6f19d1ffad.png" width="200" height="300">
 khan
 
